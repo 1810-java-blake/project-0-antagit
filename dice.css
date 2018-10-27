@@ -4,3 +4,6 @@ body{
 h1{
     font-size: 250%;
 }
+#imageDiv img{
+    width: 8%
+}
