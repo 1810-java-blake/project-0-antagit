@@ -1,4 +1,4 @@
-body{
+#bodyID{
     text-align: center;
 }
 h1{
@@ -7,3 +7,7 @@ h1{
 #imageDiv img{
     width: 8%
 }
+
+#playAgainBtn{
+    display: none;
+}   
