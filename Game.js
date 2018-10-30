@@ -54,32 +54,32 @@ function game(){
                     //retrieving and setting image src to specified roll value
                     switch(element.value){
                         case 1:
-                            diceRoll.setAttribute("src","/images/dice1.png");
+                            diceRoll.setAttribute("src","images/dice1.png");
                             image.appendChild(diceRoll);
                             rollArray.push(element.value);
                             break;
                         case 2:
-                            diceRoll.setAttribute("src","/images/dice2.png");
+                            diceRoll.setAttribute("src","images/dice2.png");
                             image.appendChild(diceRoll);
                             rollArray.push(element.value);
                             break;
                         case 3:
-                            diceRoll.setAttribute("src","/images/dice3.png");
+                            diceRoll.setAttribute("src","images/dice3.png");
                             image.appendChild(diceRoll);
                             rollArray.push(element.value);
                             break;
                         case 4:
-                            diceRoll.setAttribute("src","/images/dice4.png");
+                            diceRoll.setAttribute("src","images/dice4.png");
                             image.appendChild(diceRoll); 
                             rollArray.push(element.value);
                             break;
                         case 5:
-                            diceRoll.setAttribute("src","/images/dice5.png");
+                            diceRoll.setAttribute("src","images/dice5.png");
                             image.appendChild(diceRoll);
                             rollArray.push(element.value);
                             break;
                         case 6:
-                            diceRoll.setAttribute("src","/images/dice6.png");
+                            diceRoll.setAttribute("src","images/dice6.png");
                             image.appendChild(diceRoll);
                             rollArray.push(element.value);
                             break;
